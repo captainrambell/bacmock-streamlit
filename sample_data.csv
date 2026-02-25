@@ -1,0 +1,10 @@
+student_id,item_id,topic,is_correct
+S001,Q1,Algebra,1
+S001,Q2,Geometry,0
+S001,Q3,Trigonometry,0
+S002,Q1,Algebra,1
+S002,Q2,Geometry,1
+S002,Q3,Trigonometry,0
+S003,Q1,Algebra,0
+S003,Q2,Geometry,0
+S003,Q3,Trigonometry,0
